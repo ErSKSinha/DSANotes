@@ -5,5 +5,5 @@ DSANotes used prefered C++ language
 
 1. DSANotes cover all topic Data Strucutre as Array, Stack, Queue, LinkedList, Tree, Graph, etc
 2. DSANotes Cover Algorithms All topic as Time and Space complexity, Searching, Sorting, Greedy Algorithms, 
-   Dynamic Programming, Graphs, recurrence, Divide and conquer,  Hasjing, Tree, Binary Tree, Backtracking,
+   Dynamic Programming, Graphs, recurrence, Divide and conquer,  Hashing, Tree, Binary Tree, Backtracking,
    MST etc.
