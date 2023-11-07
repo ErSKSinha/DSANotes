@@ -8,7 +8,7 @@ DSANotes used prefered C++ language
    Dynamic Programming, Graphs, recurrence, Divide and conquer,  Hashing, Tree, Binary Tree, Backtracking,
    MST etc.
 3. DSANotes to include all Low Level Design as tiny URL, Messenger, Twitter, Load Balancing etc.
-4. DSANotes to include all topics about Computer Nework as TCP, UDP, IP, SMTP,HTTP/ HTTPS, TLS/SSL,  OSI MOdel etc.
+4. DSANotes to include all topics about Computer Nework as TCP, UDP, IP, SMTP,HTTP/ HTTPS, TLS/SSL,  OSI Model etc.
 5. DSANotes to include all topics about operating Systems as Deadlock, prevention, process mamnament , File System, Linux basic commands etc.
 6. DSANotes to include all topic Database Management System as ACID property, Key, Transaction, JOIN, etc
 7. DSANOtes to API Management system.
